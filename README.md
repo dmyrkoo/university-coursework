@@ -9,3 +9,4 @@ Conclusion
 New brilliant idea
 
 
+## Squash Merge Demo
